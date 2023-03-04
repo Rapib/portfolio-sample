@@ -61,18 +61,18 @@ Estimate of time needed to complete: _60min_
 
 Start time: 1620
 
-Finish time: _____
+Finish time: 1720_
 
-Actual time needed to complete: _____
+Actual time needed to complete: 60min_
 
 -------------
 
-Number and name of feature: ________________________________
+Number and name of feature: _5._Personalize___
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 60min
 
-Start time: _____
+Start time: _1900____
 
-Finish time: _____
+Finish time: 2100_
 
-Actual time needed to complete: _____
+Actual time needed to complete: 120min_

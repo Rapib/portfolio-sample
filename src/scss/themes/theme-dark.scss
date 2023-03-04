@@ -33,14 +33,14 @@ body[data-theme="dark"] {
    }
 
    header {
-      background-color: #494949;
+      background-color: #7e5702;
       h1 {
          color: white;
       }
    }
 
    #about {
-      background-color: #7f7f7f;
+      background-color: #023d64;
       h1 span {
          color: white;
       }
@@ -54,7 +54,7 @@ body[data-theme="dark"] {
    }
 
    #portfolio {
-      background: #5b5b5b;
+      background: #023d64;
       .section-title {
          color: white !important;
       }
@@ -68,18 +68,18 @@ body[data-theme="dark"] {
 
    #resume {
       filter: brightness(80%);
-      background: #5b5b5b;
+      background: #023d64;
       .section-title {
          color: white !important;
       }
 
       .experience-badge {
-         background: #919191 !important;
+         background: #94b2c5 !important;
          color: white;
       }
 
       .main-badge {
-         background: #919191 !important;
+         background: #94b2c5 !important;
       }
 
       .vertical-timeline-element-date {
@@ -87,17 +87,17 @@ body[data-theme="dark"] {
       }
 
       .vertical-timeline-element-icon {
-         background: #919191 !important;
+         background: #94b2c5 !important;
       }
       @media only screen and (max-width: 1169px) { 
          .vertical-timeline-element-date {
-            color: black;
+            color: rgb(0, 0, 0);
          }
       }
    }
 
    .modal-inside .modal-content {
-      background: #5b5b5b;
+      background: #012b44;
       color: white;
    }
 
