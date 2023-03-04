@@ -43,11 +43,11 @@ Actual time needed to complete: _60min
 
 -----------
 
-Number and name of feature: ________________________________
+Number and name of feature: 3. Projects Section
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: _60min_
 
-Start time: _____
+Start time: 1540
 
 Finish time: _____
 
