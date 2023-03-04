@@ -49,6 +49,18 @@ Estimate of time needed to complete: _60min_
 
 Start time: 1540
 
+Finish time: 1620_____
+
+Actual time needed to complete: 40min
+
+-------------
+
+Number and name of feature: 4. Skills__
+
+Estimate of time needed to complete: _60min_
+
+Start time: 1620
+
 Finish time: _____
 
 Actual time needed to complete: _____
